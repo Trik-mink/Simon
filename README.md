@@ -36,7 +36,7 @@ cd web
 npm run dev
 npm run build
 
-# or, from ~/ProjectedCopilot:
+# or, from the repo root:
 npm --prefix web run dev
 npm --prefix web run build
 ```
@@ -44,7 +44,6 @@ npm --prefix web run build
 ### 3. Start everything
 
 ```bash
-cd ~/ProjectedCopilot
 ./start.sh
 ```
 
