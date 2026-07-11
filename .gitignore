@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+
+# Secrets — never commit API keys
+server/.env
+*.env
+
+# Build output
+web/dist/
+web/node_modules/
+
