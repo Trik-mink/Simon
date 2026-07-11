@@ -186,7 +186,7 @@ render via the calibration homography.
 ## How It Works
 
 1. Place a context marker on your desk (see Markers section below)
-2. Use hand gestures to interact with Simon
+2. Use glove gestures (or keyboard keys `1`–`5`) to interact with Simon
 3. Simon scans the desk silently — answer is stored until you're ready
 4. Reveal the answer when you want it, speak it when you need it
 
