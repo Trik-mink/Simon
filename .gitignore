@@ -11,3 +11,6 @@ server/.env
 web/dist/
 web/node_modules/
 
+
+# local docs
+docs/
