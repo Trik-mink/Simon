@@ -1,0 +1,2 @@
+"""Projected Copilot MVP package."""
+
